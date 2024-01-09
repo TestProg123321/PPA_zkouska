@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "PPA_zkouska",
+			"path": "."
+		},
+		{
+			"name": "playlist",
+			"path": "../../playlist"
+		}
+	],
+	"settings": {}
+}
